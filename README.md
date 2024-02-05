@@ -9,7 +9,5 @@ A simple to do application using html css and javascript.
 ## Add Task
 - Tasks will be added after checking
 - Empty tasks won't be added
-
-### Demo
-> A demo of task addition
-![](assets/To%20Do%20Demo.gif)
+- A demo of task addition given below
+    - ![](assets/To%20Do%20Demo.gif)
