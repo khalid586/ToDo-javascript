@@ -11,16 +11,16 @@
 </head>
 <body>
     <nav>
-        <h1> To Do</h1>
+        <h1> To Do Application</h1>
     </nav>
 
-    <form action="" class="form">
-        Task Name 
-        <input type="text" name="task" id="task">
+    <form class="form">
+        <input type="text" name="task" id="task" placeholder="Add your task">
         <br>
-        <button type = "submit">Add task</button>
+        <button type="button" onclick="Add_task()">Add task</button>
     </form>
 
+    <ul id="taskList">   </ul>
     <script src="script.js"></script>
 </body>
 </html>
