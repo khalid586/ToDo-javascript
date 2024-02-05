@@ -1,5 +1,10 @@
 *{
     font-family: manrope;
+    
+}
+
+body{
+    background-color: lightyellow;
 }
 
 .form  , li{
@@ -10,6 +15,7 @@
     background-color: lightcyan;
     border-radius: 8px;
     margin-top: 5px;
+    color: #ff5945;
 }
 
 ul > li > img{
