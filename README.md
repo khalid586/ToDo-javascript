@@ -12,4 +12,4 @@ A simple to do application using html css and javascript.
 
 ### Demo
 > A demo of task addition
-- ![](assets/To%20Do%20Demo.gif)
+![](assets/To%20Do%20Demo.gif)
