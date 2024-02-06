@@ -1,5 +1,5 @@
 # Brief
-A simple to do application using html css and javascript.
+A simple to do application using html css and javascript having the basic CRUD operations as users can create task, read the added task, update the task and delete the existing task.
 
 # Features
 - [Add task](#add-task)
